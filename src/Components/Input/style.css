@@ -1,0 +1,23 @@
+.ContainerInput{
+    width: 100%;
+    max-width: 1000px;
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+    line-height: 50px;
+    justify-content: center;
+}
+.Input{
+padding: 20px;
+border-radius: 5px;
+width: 100%;
+max-width: 400px;
+border: none;
+outline: none;
+font-size: 1.1rem;
+font-weight: bold;
+}
+.Input::placeholder{
+    font-weight: bold;
+    font-size: 1.1rem;
+}

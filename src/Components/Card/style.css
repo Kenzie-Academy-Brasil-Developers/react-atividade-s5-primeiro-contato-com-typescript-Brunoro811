@@ -1,0 +1,12 @@
+.ContainerCard{
+    width: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: flex-start;
+    align-items: center;
+  margin:  0 auto;
+  margin-bottom: 5px;
+
+}
